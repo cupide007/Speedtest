@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "南京大学 v4",
-    "server": "http://test.nju.edu.cn",
+    "name": "南京航空航天大学 v4",
+    "server": "http://speed.nuaa.edu.cn",
     "dlURL": "/backend/garbage.php",
     "ulURL": "/backend/empty.php",
     "pingURL": "/backend/empty.php",
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "name": "南京大学 v6",
-    "server": "http://test6.nju.edu.cn",
+    "name": "南京航空航天大学 v6",
+    "server": "http://speed.nuaa.edu.cn",
     "dlURL": "/backend/garbage.php",
     "ulURL": "/backend/empty.php",
     "pingURL": "/backend/empty.php",
@@ -20,25 +20,25 @@
   {
     "id": 3,
     "name": "上海交通大学 v4",
-    "server": "http://mirror.sjtu.edu.cn/speedtest",
-    "dlURL": "/garbage.php",
-    "ulURL": "/empty.php",
-    "pingURL": "/empty.php",
-    "getIpURL": "/getIP.php"
+    "server": "https://wsus.sjtu.edu.cn",
+    "dlURL": "/speedtest/backend/garbage.php",
+    "ulURL": "/speedtest/backend/empty.php",
+    "pingURL": "/speedtest/backend/empty.php",
+    "getIpURL": "/speedtest/backend/getIP.php"
   },
   {
     "id": 4,
     "name": "上海交通大学 v6",
-    "server": "http://mirror.sjtu.edu.cn/speedtest",
-    "dlURL": "/garbage.php",
-    "ulURL": "/empty.php",
-    "pingURL": "/empty.php",
-    "getIpURL": "/getIP.php"
+    "server": "https://wsus.sjtu.edu.cn",
+    "dlURL": "/speedtest/backend/garbage.php",
+    "ulURL": "/speedtest/backend/empty.php",
+    "pingURL": "/speedtest/backend/empty.php",
+    "getIpURL": "/speedtest/backend/getIP.php"
   },
   {
     "id": 5,
     "name": "中国科学技术大学 v4",
-    "server": "http://test.ustc.edu.cn",
+    "server": "https://test.ustc.edu.cn",
     "dlURL": "/backend/garbage.php",
     "ulURL": "/backend/empty.php",
     "pingURL": "/backend/empty.php",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "中国科学技术大学 v6",
-    "server": "http://test6.ustc.edu.cn",
+    "server": "https://test6.ustc.edu.cn",
     "dlURL": "/backend/garbage.php",
     "ulURL": "/backend/empty.php",
     "pingURL": "/backend/empty.php",
@@ -64,8 +64,8 @@
   },
   {
     "id": 8,
-    "name": "东北大学 v6",
-    "server": "http://speed.neu6.edu.cn",
+    "name": "东北大学 v4",
+    "server": "https://speed.neu.edu.cn",
     "dlURL": "/garbage.php",
     "ulURL": "/empty.php",
     "pingURL": "/empty.php",
@@ -73,6 +73,51 @@
   },
   {
     "id": 9,
+    "name": "东北大学 v6",
+    "server": "https://speed.neu.edu.cn",
+    "dlURL": "/garbage.php",
+    "ulURL": "/empty.php",
+    "pingURL": "/empty.php",
+    "getIpURL": "/getIP.php"
+  },
+  {
+    "id": 10,
+    "name": "东南大学 v4",
+    "server": "https://xnfz.seu.edu.cn",
+    "dlURL": "/speed/garbage.php",
+    "ulURL": "/speed/empty.php",
+    "pingURL": "/speed/empty.php",
+    "getIpURL": "/speed/getIP.php"
+  },
+  {
+    "id": 11,
+    "name": "东南大学 v6",
+    "server": "https://xnfz.seu.edu.cn",
+    "dlURL": "/speed/garbage.php",
+    "ulURL": "/speed/empty.php",
+    "pingURL": "/speed/empty.php",
+    "getIpURL": "/speed/getIP.php"
+  },
+  {
+    "id": 12,
+    "name": "上海大学 v4",
+    "server": "https://speedtest.shu.edu.cn",
+    "dlURL": "/backend/garbage.php",
+    "ulURL": "/backend/empty.php",
+    "pingURL": "/backend/empty.php",
+    "getIpURL": "/backend/getIP.php"
+  },
+  {
+    "id": 13,
+    "name": "上海大学 v6",
+    "server": "https://speedtest6.shu.edu.cn/",
+    "dlURL": "/backend/garbage.php",
+    "ulURL": "/backend/empty.php",
+    "pingURL": "/backend/empty.php",
+    "getIpURL": "/backend/getIP.php"
+  },
+  {
+    "id": 14,
     "name": "浙江大学 v4",
     "server": "http://speedtest.zju.edu.cn",
     "dlURL": "/garbage.php",

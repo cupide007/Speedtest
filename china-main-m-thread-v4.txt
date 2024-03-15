@@ -1,30 +1,41 @@
-大陆三网+教育网 IPv4 多线程测速，v2023-11-09
-speedtest-cli ,最近的测速点        ,
-speedtest-cli ,电信 天津           ,-o tjrate.tjtele.com
-speedtest-cli ,电信 甘肃兰州       ,-o speed.bajianjun.com
-speedtest-cli ,电信 四川成都       ,-o speedtest1.sc.189.cn
-speedtest-cli ,电信 安徽合肥 5G    ,-o speedtest1.ah163.com
-speedtest-cli ,电信 浙江宁波 5G    ,-o cesu-nb.zjtelecom.com.cn
-speedtest-cli ,电信 江苏镇江 5G    ,-o 5gzhenjiang.speedtest.jsinfo.net
-speedtest-cli ,电信 湖南长沙 5G    ,-o hntelecom5g.cn
-speedtest-cli ,电信 江苏连云港 5G  ,-o 4glianyungang1.speedtest.jsinfo.net
-speedtest-cli ,移动 北京           ,-o speedtest.bmcc.com.cn
-speedtest-cli ,移动 四川成都       ,-o speedtest1.sc.chinamobile.com
-speedtest-cli ,移动 甘肃兰州       ,-o speedtest1.gs.chinamobile.com
-speedtest-cli ,移动 广东深圳       ,-o speedtest.sz.gd.shunshiidc.com
-speedtest-cli ,移动 河南郑州 5G    ,-o speedtest.eastcom.site
-speedtest-cli ,移动 浙江杭州 5G    ,-o speedtest.139play.com
-speedtest-cli ,移动 陕西西安 5G    ,-o speedtest.one-punch.win
-speedtest-cli ,联通 江苏无锡       ,-o speedtest2.niutk.com
-speedtest-cli ,联通 四川成都       ,-o speedtest.cnscn96655.com
-speedtest-cli ,联通 福建福州       ,-o upload1.testspeed.cdn16.com
-speedtest-cli ,联通 辽宁沈阳       ,-o unicomspeedtest.com
-speedtest-cli ,联通 海南三亚       ,-o hin-sanya1.netcute.com
-speedtest-cli ,联通 湖南长沙 5G    ,-o speedtest01.hn165.com
-speedtest-cli ,联通 河南郑州 5G    ,-o 5gtest.shangdu.com
-speedtest-cli ,广电 重庆           ,-o speedtest1.cqccn.com
+大陆三网+教育网 IPv4 多线程测速，v2024-03-15
+speedtest-cli,最近的测速点        ,
+speedtest-cli,电信 天津           ,-o tjrate.tjtele.com
+speedtest-cli,电信 甘肃兰州       ,-o speed.bajianjun.com
+speedtest-cli,电信 四川成都       ,-o speedtest1.sc.189.cn
+speedtest-cli,电信 江苏苏州       ,-o 4gsuzhou1.speedtest.jsinfo.net
+speedtest-cli,电信 浙江杭州       ,-o cesu-hz.zjtelecom.com.cn
+speedtest-cli,电信 安徽合肥 5G    ,-o speedtest1.ah163.com
+speedtest-cli,电信 浙江宁波 5G    ,-o cesu-nb.zjtelecom.com.cn
+speedtest-cli,电信 江苏镇江 5G    ,-o 5gzhenjiang.speedtest.jsinfo.net
+speedtest-cli,电信 江苏南京 5G    ,-o 5gnanjing.speedtest.jsinfo.net
+speedtest-cli,电信 湖南长沙 5G    ,-o hntelecom5g.cn
+speedtest-cli,电信 江苏连云港 5G  ,-o 4glianyungang1.speedtest.jsinfo.net
+speedtest-cli,移动 北京           ,-o speedtest.bmcc.com.cn
+speedtest-cli,移动 四川成都       ,-o speedtest1.sc.chinamobile.com
+speedtest-cli,移动 甘肃兰州       ,-o speedtest1.gs.chinamobile.com
+speedtest-cli,移动 广东深圳       ,-o speedtest.sz.gd.shunshiidc.com
+speedtest-cli,移动 河南郑州 5G    ,-o speedtest.eastcom.site
+speedtest-cli,移动 浙江杭州 5G    ,-o speedtest.139play.com
+speedtest-cli,移动 陕西西安 5G    ,-o speedtest.one-punch.win
+speedtest-cli,移动 广州广东 5G    ,-o speedtest2.dpdfsd.com
+speedtest-cli,移动 广州深圳 5G    ,-o speedtest1.dpdfsd.com
+speedtest-cli,联通 北京           ,-o beijing.unicomtest.com
+speedtest-cli,联通 江苏无锡       ,-o speedtest2.niutk.com
+speedtest-cli,联通 四川成都       ,-o speedtest.cnscn96655.com
+speedtest-cli,联通 福建福州       ,-o upload1.testspeed.cdn16.com
+speedtest-cli,联通 辽宁沈阳       ,-o unicomspeedtest.com
+speedtest-cli,联通 海南三亚       ,-o hin-sanya1.netcute.com
+speedtest-cli,联通 上海 5G        ,-o 5g.shunicomtest.com
+speedtest-cli,联通 天津 5G        ,-o speedtest3.online.tj.cn
+speedtest-cli,联通 湖南长沙 5G    ,-o speedtest01.hn165.com
+speedtest-cli,联通 河南郑州 5G    ,-o 5gtest.shangdu.com
+speedtest-cli,广电 重庆           ,-o speedtest1.cqccn.com
 librespeed-cli,教育网 北京         ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 7 -4 --no-icmp
-librespeed-cli,教育网 上海         ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 3 -4 --no-icmp
-librespeed-cli,教育网 江苏南京     ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 1 -4 --no-icmp
+librespeed-cli,教育网 上海 1       ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 12 -4 --no-icmp
+librespeed-cli,教育网 上海 2       ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 3 -4 --no-icmp
+librespeed-cli,教育网 上海 3       ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 14 -4 --no-icmp
 librespeed-cli,教育网 安徽合肥     ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 5 -4 --no-icmp
-librespeed-cli,教育网 浙江杭州     ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 9 -4 --no-icmp
+librespeed-cli,教育网 辽宁沈阳     ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 8 -4 --no-icmp
+librespeed-cli,教育网 江苏南京 1   ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 1 -4 --no-icmp
+librespeed-cli,教育网 江苏南京 2   ,--server-json https://jihulab.com/i-abc/speedtest/-/raw/node/china-education.json --server 10 -4 --no-icmp
