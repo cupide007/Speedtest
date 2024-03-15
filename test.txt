@@ -1,4 +1,4 @@
-测速用例 v2024-03-15
+测试用例 v2024-03-15
 speedtest-cli,speedtest-cli 1    ,-o 5gzhenjiang.speedtest.jsinfo.net
 speedtest-cli,speedtest-cli 2    ,-o hin-sanya1.netcute.com
 bim-core,bim-core 1         ,http://5gzhenjiang.speedtest.jsinfo.net:8080/download http://5gzhenjiang.speedtest.jsinfo.net:8080/upload
@@ -7,5 +7,7 @@ speedtest-go,speedtest-go 1     ,--custom-url http://5gzhenjiang.speedtest.jsinf
 speedtest-go,speedtest-go 2     ,--custom-url http://hin-sanya1.netcute.com:8080/speedtest/upload.php --ping-mode http -t 1
 iperf3,iperf3 1           ,-c ash.speedtest.clouvider.net -p 5200-5209 -4 --up-and-down -P 1
 iperf3,iperf3 2           ,-c lg-sg-sin.webhorizon.net -p 9200-9209 -4 --up-and-down -P 1
-librespeed-cli,librespeed-cli 1   ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 7 -4 --no-icmp
-librespeed-cli,librespeed-cli 2   ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 5 -4 --no-icmp
+librespeed-cli,librespeed-cli v4 1,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 7 -4 --no-icmp
+librespeed-cli,librespeed-cli v4 2,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 5 -4 --no-icmp
+librespeed-cli,librespeed-cli v6 1,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 4 -6 --no-icmp
+librespeed-cli,librespeed-cli v6 2,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 2 -6 --no-icmp
