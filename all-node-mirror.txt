@@ -32,3 +32,5 @@ https://jihulab.com/i-abc/speedtest/-/raw/node/earth-iperf3-1-thread-v4.txt
 https://jihulab.com/i-abc/speedtest/-/raw/node/earth-iperf3-32-thread-v6.txt
 17. 各大洲 IPV6 单线程测速
 https://jihulab.com/i-abc/speedtest/-/raw/node/earth-iperf3-1-thread-v6.txt
+18. 测试用例
+https://jihulab.com/i-abc/speedtest/-/raw/node/test.txt

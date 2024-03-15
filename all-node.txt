@@ -32,3 +32,5 @@ https://raw.githubusercontent.com/i-abc/Speedtest/node/earth-iperf3-1-thread-v4.
 https://raw.githubusercontent.com/i-abc/Speedtest/node/earth-iperf3-32-thread-v6.txt
 17. 各大洲 IPV6 单线程测速
 https://raw.githubusercontent.com/i-abc/Speedtest/node/earth-iperf3-1-thread-v6.txt
+18. 测试用例
+https://raw.githubusercontent.com/i-abc/Speedtest/node/test.txt
