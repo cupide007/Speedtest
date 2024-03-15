@@ -1,7 +1,7 @@
 大陆教育网 IPv6 测速，v2024-03-15
-librespeed-cli,教育网 上海 1       ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 4 -6 --no-icmp
-librespeed-cli,教育网 上海 2       ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 13 -6 --no-icmp
-librespeed-cli,教育网 安徽合肥     ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 6 -6 --no-icmp
-librespeed-cli,教育网 辽宁沈阳     ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 9 -6 --no-icmp
-librespeed-cli,教育网 江苏南京 1   ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 2 -6 --no-icmp
-librespeed-cli,教育网 江苏南京 2   ,--server-json https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education.json --server 11 -6 --no-icmp
+librespeed-cli,教育网 上海 1       ,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 4 -6 --no-icmp
+librespeed-cli,教育网 上海 2       ,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 13 -6 --no-icmp
+librespeed-cli,教育网 安徽合肥     ,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 6 -6 --no-icmp
+librespeed-cli,教育网 辽宁沈阳     ,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 9 -6 --no-icmp
+librespeed-cli,教育网 江苏南京 1   ,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 2 -6 --no-icmp
+librespeed-cli,教育网 江苏南京 2   ,--server-json https://gcore.jsdelivr.net/gh/i-abc/speedtest@node/china-education.json --server 11 -6 --no-icmp
