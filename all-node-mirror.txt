@@ -1,36 +1,36 @@
 1.  大陆三网+教育网 IPv4 多线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-main-m-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-main-m-thread-v4.txt
 2.  大陆三网+教育网 IPv4 单线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-main-1-thread-v4-2.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-main-1-thread-v4-2.txt
 3.  大陆教育网 IPv6 多线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education-v6.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education-v6.txt
 4.  各大洲 IPV4 八线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-8-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-8-thread-v4.txt
 5.  各大洲 IPV6 八线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-8-thread-v6.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-8-thread-v6.txt
 6.  IPV4 UDP 可用性测试
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/udp-ok-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/udp-ok-v4.txt
 7.  大陆教育网 IPv4 多线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-education-v4.txt
 8.  大陆电信 IPv4 多线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-telecom-m-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-telecom-m-thread-v4.txt
 9.  大陆电信 IPv4 单线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-telecom-1-thread-v4-2.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-telecom-1-thread-v4-2.txt
 10. 大陆移动 IPv4 多线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-mobile-m-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-mobile-m-thread-v4.txt
 11. 大陆移动 IPv4 单线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-mobile-1-thread-v4-2.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-mobile-1-thread-v4-2.txt
 12. 大陆联通 IPv4 多线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-unicom-m-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-unicom-m-thread-v4.txt
 13. 大陆联通 IPv4 单线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/china-unicom-1-thread-v4-2.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/china-unicom-1-thread-v4-2.txt
 14. 各大洲 IPV4 32线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-32-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-32-thread-v4.txt
 15. 各大洲 IPV4 单线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-1-thread-v4.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-1-thread-v4.txt
 16. 各大洲 IPV6 32线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-32-thread-v6.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-32-thread-v6.txt
 17. 各大洲 IPV6 单线程测速
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-1-thread-v6.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/earth-iperf3-1-thread-v6.txt
 18. 测试用例
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/i-abc/speedtest/node/test.txt
+https://asset.bash.icu/https://raw.githubusercontent.com/i-abc/speedtest/node/test.txt
